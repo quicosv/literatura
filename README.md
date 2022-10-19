@@ -1,5 +1,5 @@
 ---
-lang: es
+language: es
 ---
 
 # literatura
